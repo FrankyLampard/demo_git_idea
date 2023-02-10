@@ -15,5 +15,6 @@ public class App
         System.out.println("hot-fix");
         System.out.println("edit by idea");
         System.out.println("ssh test");
+        System.out.println("pull test");
     }
 }
