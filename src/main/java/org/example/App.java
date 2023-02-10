@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("hahaha");
         System.out.println("2 commit");
+        System.out.println("hot-fix");
     }
 }
